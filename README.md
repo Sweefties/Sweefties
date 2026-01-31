@@ -69,7 +69,7 @@ Writing about Swift, Concurrency, Security, SwiftUI, and Apple frameworks on [at
 
 ## 🔗 Connect
 
-[![LinkedIn](https://img.shields.io/badge/-Wlad_Dicario-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ACoAAAO3bHMB0E1j5ERpaBnGJlxJsmPdBNpzFzg)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bwladislas/)
 [![Website](https://img.shields.io/badge/-atelier--socle.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://atelier-socle.com)
 [![GitHub Org](https://img.shields.io/badge/-atelier--socle-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/atelier-socle)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sweefties)
